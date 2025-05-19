@@ -1,0 +1,19 @@
+.alpha-list{
+  position:relative;
+  border: 1px solid lightskyblue;
+  padding: 10px;
+  border-radius:5px;
+  margin: 10px;
+  box-shadow: 0px 3px 4px lightskyblue;
+}
+
+.alpha-image{
+  height:200px;
+}
+
+.alpha{
+  position: absolute;
+  bottom: 10%;
+  right: 10%;
+  color: black;
+}

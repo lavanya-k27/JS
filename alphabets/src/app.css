@@ -1,0 +1,22 @@
+.app{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button{
+  background-color: lightsalmon;
+  border: 1px solid rgb(182, 17, 17);
+  border-radius: 10px;
+  font-size: 20px;
+  padding:10px;
+  width:30%;
+}
+
+.alpha-list{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap-reverse;
+  justify-content: center;
+
+}
